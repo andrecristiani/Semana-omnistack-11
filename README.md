@@ -1,2 +1,2 @@
-# aluis02-hotmail.com
-Semana-omnistack-11
+# Semana-omnistack-11
+Repositório contendo os projetos (backend, frontend, mobile) desenvolvidos durante os estudos da 11º semana omnistack.
